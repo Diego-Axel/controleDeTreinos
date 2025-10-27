@@ -1,0 +1,2 @@
+# controleDeTreinos
+uma página web dedicada para fazer a gestão dos meus treinos na academia e nas corridas, usando um pequeno BI para mostrar as minhas estasticas em cada treino. Aqui irei poder criar meus treinos e gerencia-los, bem como a rotina. Sendo feito em REACT, VITE, TYPESCRIPT
